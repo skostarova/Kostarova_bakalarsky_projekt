@@ -2,10 +2,10 @@
 
 1. vizualizácia syntetických svetelných kriviek
 2. vizualizácia observačných svetelných kriviek
-3. predikcia pomeru efektívnych teplôt pre dotykové systémy
-4. predikcia sklonu pre dotykové systémy
-5. predikcia pomeru hmotností pre dotykové systémy
-6. predikcia povrchového potenciálu pre dotykové systémy
+3. predikcia pomeru efektívnych teplôt pre dotykové systémy - súbor overcontact_t2_t1.ipynb  
+4. predikcia sklonu pre dotykové systémy - súbor overcontact_inclination.ipynb
+5. predikcia pomeru hmotností pre dotykové systémy - súbor overcontact_mass_ratio.ipynb
+6. predikcia povrchového potenciálu pre dotykové systémy - súbor overcontact_pSP.ipynb
 7. predikcia pomeru efektívnych teplôt pre oddelené systémy
 8. predikcia sklonu pre oddelené systémy
 9. predikcia pomeru hmotností pre oddelené systémy
