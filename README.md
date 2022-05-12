@@ -25,7 +25,7 @@ Dáta syntetických kriviek -
 
 Dáta observačných kriviek - observed.csv
 
-
+---
 ### *Silvia Kostárová, Bakalárska práca* 
 
 Hospodárska informatika, KKUI, FEI TUKE 2022
