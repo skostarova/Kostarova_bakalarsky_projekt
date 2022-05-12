@@ -2,7 +2,7 @@
 
 ## Analýza svetelných kriviek zákrytových premenných hviezd pomocou hlbokého učenia
 
-### *Silvia Kostárová*
+
 
 1. vizualizácia syntetických svetelných kriviek
 2. vizualizácia observačných svetelných kriviek
@@ -24,3 +24,9 @@
 Dáta syntetických kriviek - 
 
 Dáta observačných kriviek - observed.csv
+
+### *Silvia Kostárová, Bakalárska práca* 
+
+Hospodárska informatika, Katedra kybernetiky a umelej inteligencie, Fakulta elektrotechniky a informatiky, Technická univerzita v Košiciach
+
+2022
