@@ -11,11 +11,11 @@
 9. predikcia pomeru hmotností pre oddelené systémy
 10. predikcia primárneho povrchového potenciálu pre oddelené systémy
 11. predikcia sekundárneho povrchového potenciálu pre oddelené systémy
-12. vizualizácia predikcií na observačných dátach pre dotykové systémy
+12. vizualizácia predikcií na observačných dátach pre dotykové systémy - súbor prediction_overcontact_observed.ipynb
 13. vizualizácia predikcií na observačných dátach pre oddelené systémy
 14. experiment 1
 15. experiment 2
 16. experiment 3
 
-Dáta syntetických kriviek -
-Dáta observačných kriviek - 
+Dáta syntetických kriviek - \n
+Dáta observačných kriviek - observed.csv
