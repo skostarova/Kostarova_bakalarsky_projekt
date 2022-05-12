@@ -25,8 +25,7 @@ Dáta syntetických kriviek -
 
 Dáta observačných kriviek - observed.csv
 
+
 ### *Silvia Kostárová, Bakalárska práca* 
 
-Hospodárska informatika, Katedra kybernetiky a umelej inteligencie, Fakulta elektrotechniky a informatiky, Technická univerzita v Košiciach
-
-2022
+Hospodárska informatika, KKUI, FEI TUKE 2022
