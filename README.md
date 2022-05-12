@@ -1,5 +1,9 @@
 # Kostarova_bakalarsky_projekt
 
+## Analýza svetelných kriviek zákrytových premenných hviezd pomocou hlbokého učenia
+
+### *Silvia Kostárová*
+
 1. vizualizácia syntetických svetelných kriviek
 2. vizualizácia observačných svetelných kriviek
 3. predikcia pomeru efektívnych teplôt pre dotykové systémy - súbor overcontact_t2_t1.ipynb  
@@ -17,5 +21,6 @@
 15. experiment 2
 16. experiment 3
 
-Dáta syntetických kriviek - \n
+Dáta syntetických kriviek - 
+
 Dáta observačných kriviek - observed.csv
