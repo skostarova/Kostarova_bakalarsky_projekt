@@ -13,7 +13,7 @@ Predikcie pre dotykové systémy (overcontact)
 3. predikcia sklonu pre dotykové systémy - súbor **overcontact_inclination.ipynb**
 4. predikcia pomeru hmotností pre dotykové systémy - súbor **overcontact_mass_ratio.ipynb**
 5. predikcia povrchového potenciálu pre dotykové systémy - súbor **overcontact_pSP.ipynb**
-6. vizualizácia predikcií všetkých parametrov na observačných dátach pre dotykové systémy - súbor **prediction_overcontact_observed.ipynb**
+6. predikcie všetkých parametrov a ich vizualizácia pre dotykové systémy z observačných dát - súbor **prediction_overcontact_observed.ipynb**
 
 Predikcie pre oddelené systémy (detached)
 
@@ -22,7 +22,7 @@ Predikcie pre oddelené systémy (detached)
 9. predikcia pomeru hmotností pre oddelené systémy - súbor **detached_mass_ratio.ipynb**
 10. predikcia primárneho povrchového potenciálu pre oddelené systémy - súbor **detached_pSP.ipynb**
 11. predikcia sekundárneho povrchového potenciálu pre oddelené systémy - súbor **detached_sSP.ipynb**
-12. vizualizácia predikcií všetkých parametrov na observačných dátach pre oddelené systémy - súbor **prediction_detached_observed.ipynb**
+12. predikcie všetkých parametrov a ich vizualizácia pre oddelené systémy z observačných dát - súbor **prediction_detached_observed.ipynb**
 
 Experimenty
 
