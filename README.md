@@ -32,10 +32,13 @@ Experimenty
 
 ### Datasety
 
-Dáta syntetických kriviek - 
+1. dáta syntetických kriviek - 
+2. dáta observačných kriviek - **observed.csv**
 
-Dáta observačných kriviek - **observed.csv**
 
+### Modely
+
+1. 
 ---
 ### *Silvia Kostárová, Bakalárska práca* 
 
