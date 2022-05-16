@@ -35,7 +35,7 @@ Vytvorenie datasetov z pôvodných databáz:
 16. vytvorenie súboru overcontact_all.pkl pre experimenty 1, 2 a 3 - súbor **data_overcontact_all.ipynb** (1 riadok = 1 systém hviezd = 13 kriviek)
 17. vytvorenie súboru overcontact_one_curve.pkl - súbor **data_overcontact_one_curve.ipynb** (1 riadok = 1 krivka)
 18. vytvorenie súboru detached_one_curve.pkl - súbor **data_detached_one_curve.ipynb** (1 riadok = 1 krivka)
-19. vytvorenie súboru observed.csv - 
+19. vytvorenie súboru observed.csv - súbor **data_observed.ipynb**
 
 ### Datasety
 
