@@ -5,7 +5,7 @@
 ### Skripty
 
 Vizualizácia svetelných kriviek:
-1. vizualizácia observačných a syntetických svetelných kriviek
+1. vizualizácia observačných a syntetických svetelných kriviek - súbor **data_visualization.ipynb**
 
 Predikcie pre dotykové systémy (overcontact):
 
