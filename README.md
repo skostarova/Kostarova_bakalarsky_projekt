@@ -39,7 +39,7 @@ Vytvorenie datasetov z pôvodných databáz:
 
 ### Datasety
 
-1. dáta syntetických kriviek dotykových systémov - 
+1. dáta syntetických kriviek dotykových systémov - dostupné na https://mega.nz/file/5m43WQyK#G2WuLjqAkQT0OxQ4j-rZarCnmbtEx1rDQppiFNX8GdM
 2. dáta syntetických kriviek oddelených systémov -
 3. dáta observačných kriviek - **observed.csv**
 4. dáta pre experimenty 1, 2, 3 - 
