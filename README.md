@@ -44,6 +44,7 @@ Vytvorenie datasetov z pôvodných databáz:
 3. dáta observačných kriviek - **observed.csv**
 4. dáta pre experimenty 1, 2, 3 - 
 5. pôvodné dáta observačných kriviek - priečinok **krivky**
+6. pôvodné databázy syntetických kriviek dotykových a oddelených systémov **overcontact.db** a **detached.db** dostupné na...?
 
 
 ### Modely
