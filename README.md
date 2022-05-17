@@ -12,15 +12,15 @@ Vytvorenie datasetov z pôvodných databáz:
 3. vytvorenie súboru detached_one_curve.pkl - súbor [**data_detached_one_curve.ipynb**](data_detached_one_curve.ipynb) 
 4. vytvorenie súboru observed.csv - súbor [**data_observed.ipynb**](data_observed.ipynb)
 
-Experimenty na predikciu pomeru efektívnych teplôt zo syntetických svetelných kriviek filtra Bessell_U bez umelého šumu:
-
-5. experiment 1 = architektúra LSTM + 1D CNN č.1 - súbor [**LSTM_1DCNN_c1.ipynb**](LSTM_1DCNN_c1.ipynb)
-6. experiment 2 = architektúra BiLSTM + 1D CNN - súbor [**BiLSTM_1DCNN.ipynb**](BiLSTM_1DCNN.ipynb)
-7. experiment 3 = architektúra LSTM + 1D CNN č.2 - súbor [**LSTM_1DCNN_c2.ipynb**](LSTM_1DCNN_c2.ipynb)
-
 Vizualizácia svetelných kriviek:
 
-8. vizualizácia observačných a syntetických svetelných kriviek - súbor [**data_visualization.ipynb**](data_visualization.ipynb)
+5. vizualizácia observačných a syntetických svetelných kriviek - súbor [**data_visualization.ipynb**](data_visualization.ipynb)
+
+Experimenty na predikciu pomeru efektívnych teplôt zo syntetických svetelných kriviek filtra Bessell_U bez umelého šumu:
+
+6. experiment 1 = architektúra LSTM + 1D CNN č.1 - súbor [**LSTM_1DCNN_c1.ipynb**](LSTM_1DCNN_c1.ipynb)
+7. experiment 2 = architektúra BiLSTM + 1D CNN - súbor [**BiLSTM_1DCNN.ipynb**](BiLSTM_1DCNN.ipynb)
+8. experiment 3 = architektúra LSTM + 1D CNN č.2 - súbor [**LSTM_1DCNN_c2.ipynb**](LSTM_1DCNN_c2.ipynb)
 
 Predikcie pre dotykové systémy (overcontact):
 
