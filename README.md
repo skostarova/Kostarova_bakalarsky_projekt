@@ -44,8 +44,8 @@ Predikcie pre oddelené systémy (detached):
 1. dáta syntetických kriviek dotykových systémov - súbor **overcontact_one_curve.pkl** dostupný na https://mega.nz/file/5m43WQyK#G2WuLjqAkQT0OxQ4j-rZarCnmbtEx1rDQppiFNX8GdM
 2. dáta syntetických kriviek oddelených systémov - súbor **detached_one_curve.pkl** dostupný na https://mega.nz/file/g3hVAKaT#NYCF7TzrOvn11laTDz5rTz3_dHnKClOfwhFzACepnig
 3. dáta observačných kriviek - **observed.csv**
-4. dáta pre experimenty 1, 2, 3 - súbor **overcontact_Bessell_U**
-5. pôvodné dáta observačných kriviek - priečinok **krivky**
+4. dáta pre experimenty 1, 2, 3 - súbor **overcontact_Bessell_U.pkl** dostupný na https://mega.nz/file/p7hjyQrb#Sq3MgYKcPX-bVumxUY9rRSiAC_ev3SrP3XOOxcfX9bE
+5. pôvodné dáta observačných kriviek - všetky súbory v priečinku [**krivky**](krivky)
 6. pôvodné databázy syntetických kriviek dotykových a oddelených systémov **overcontact.db** a **detached.db** dostupné na...?
 
 
