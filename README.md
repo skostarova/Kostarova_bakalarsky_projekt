@@ -7,10 +7,10 @@
 
 Vytvorenie datasetov z pôvodných databáz:
 
-1. vytvorenie súboru overcontact_all.pkl pre experimenty 1, 2 a 3 - súbor [**data_overcontact_all.ipynb**](data_overcontact_all.ipynb) (1 riadok = 1 systém hviezd = 13 kriviek)
-2.  vytvorenie súboru overcontact_one_curve.pkl - súbor [**data_overcontact_one_curve.ipynb**](data_overcontact_one_curve.ipynb) (1 riadok = 1 krivka)
-3.  vytvorenie súboru detached_one_curve.pkl - súbor [**data_detached_one_curve.ipynb**](data_detached_one_curve.ipynb) (1 riadok = 1 krivka)
-4.  vytvorenie súboru observed.csv - súbor [**data_observed.ipynb**](data_observed.ipynb)
+1. vytvorenie súboru overcontact_Bessell_U.pkl pre experimenty 1, 2 a 3 - súbor [**data_overcontact_Bessell_U.ipynb**](data_overcontact_Bessell_U.ipynb)
+2. vytvorenie súboru overcontact_one_curve.pkl - súbor [**data_overcontact_one_curve.ipynb**](data_overcontact_one_curve.ipynb) 
+3. vytvorenie súboru detached_one_curve.pkl - súbor [**data_detached_one_curve.ipynb**](data_detached_one_curve.ipynb) 
+4. vytvorenie súboru observed.csv - súbor [**data_observed.ipynb**](data_observed.ipynb)
 
 Experimenty na predikciu pomeru efektívnych teplôt zo syntetických svetelných kriviek filtra Bessell_U bez umelého šumu:
 
@@ -41,10 +41,10 @@ Predikcie pre oddelené systémy (detached):
 
 ### Datasety
 
-1. dáta syntetických kriviek dotykových systémov - dostupné na https://mega.nz/file/5m43WQyK#G2WuLjqAkQT0OxQ4j-rZarCnmbtEx1rDQppiFNX8GdM
-2. dáta syntetických kriviek oddelených systémov - dostupné na https://mega.nz/file/g3hVAKaT#NYCF7TzrOvn11laTDz5rTz3_dHnKClOfwhFzACepnig
+1. dáta syntetických kriviek dotykových systémov - súbor **overcontact_one_curve.pkl** dostupný na https://mega.nz/file/5m43WQyK#G2WuLjqAkQT0OxQ4j-rZarCnmbtEx1rDQppiFNX8GdM
+2. dáta syntetických kriviek oddelených systémov - súbor **detached_one_curve.pkl** dostupný na https://mega.nz/file/g3hVAKaT#NYCF7TzrOvn11laTDz5rTz3_dHnKClOfwhFzACepnig
 3. dáta observačných kriviek - **observed.csv**
-4. dáta pre experimenty 1, 2, 3 - 
+4. dáta pre experimenty 1, 2, 3 - súbor **overcontact_Bessell_U**
 5. pôvodné dáta observačných kriviek - priečinok **krivky**
 6. pôvodné databázy syntetických kriviek dotykových a oddelených systémov **overcontact.db** a **detached.db** dostupné na...?
 
